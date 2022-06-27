@@ -1,0 +1,18 @@
+.card-img-top{
+    width: 250px;
+    height: 250px;
+}
+
+.card-text{
+    text-align: center;
+}
+.item{
+    margin: 0 auto;
+    margin-top: 4vw;
+}
+
+.card-title{
+    margin: 0 auto;
+    text-align: center;
+}
+

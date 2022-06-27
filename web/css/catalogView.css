@@ -1,0 +1,9 @@
+.card-img-top{
+    max-width: 600px;
+    height: 500px;
+    align-items: center;
+}
+
+.trash {
+    margin-bottom: 20px;
+}
